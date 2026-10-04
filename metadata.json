@@ -1,0 +1,10 @@
+{
+  "name": "GeoChat: Interactive Maps & AI Grounding",
+  "description": "An interactive map-based chatbot powered by real-time Google Maps and Google Search Grounding with Gemini 3.5 Flash.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
